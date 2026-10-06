@@ -1,6 +1,6 @@
-Big Data
+##Big Data
 
-¿Qué es Big Data?
+*¿Qué es Big Data?*
 
 Big Data es el término que se utiliza para hablar de conjuntos de datos muy grandes, variados y que se generan rápidamente. Al tener tantas características, pueden superar lo que permiten gestionar las herramientas tradicionales.
 
