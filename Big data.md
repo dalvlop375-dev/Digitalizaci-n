@@ -9,11 +9,16 @@ El objetivo no es simplemente acumular datos, sino analizarlos para encontrar pa
 Las 5 V del Big Data
 
 Las características más conocidas del Big Data se resumen en las 5 V:
-Volumen: se generan enormes cantidades de datos, por ejemplo, con las compras y búsquedas que se realizan en internet.
-Velocidad: los datos pueden producirse y analizarse rápidamente. Algunas aplicaciones necesitan procesarlos casi en tiempo real.
-Variedad: existen datos de muchos tipos, como textos, imágenes, vídeos, audios y ubicaciones.
-Veracidad: los datos deben ser suficientemente correctos y fiables. Los errores o duplicados pueden afectar a los resultados.
-Valor: los datos son útiles cuando permiten obtener información que ayuda a resolver un problema o tomar una decisión.
+
+·Volumen: se generan enormes cantidades de datos, por ejemplo, con las compras y búsquedas que se realizan en internet.
+
+·Velocidad: los datos pueden producirse y analizarse rápidamente. Algunas aplicaciones necesitan procesarlos casi en tiempo real.
+
+·Variedad: existen datos de muchos tipos, como textos, imágenes, vídeos, audios y ubicaciones.
+
+·Veracidad: los datos deben ser suficientemente correctos y fiables. Los errores o duplicados pueden afectar a los resultados.
+
+·Valor: los datos son útiles cuando permiten obtener información que ayuda a resolver un problema o tomar una decisión.
 
 **Diferencia entre dato e información**
 
@@ -36,10 +41,15 @@ Por ejemplo, una tienda online puede analizar compras anteriores para encontrar 
 
 Las organizaciones pueden utilizar Big Data para:
 ·Entender mejor las necesidades de sus clientes.
+
 ·Detectar tendencias y cambios en el mercado.
+
 ·Mejorar la planificación de sus actividades.
+
 ·Encontrar operaciones inusuales que podrían indicar fraude.
+
 ·Personalizar servicios y recomendaciones.
+
 ·Reducir gastos o aprovechar mejor sus recursos.
 
 **¿Qué hay que tener en cuenta?**
@@ -52,9 +62,13 @@ Etapas del análisis de datos
 
 Un proyecto de Big Data suele incluir varias etapas:
 ·Recolección: se obtienen datos de fuentes como sensores, aplicaciones, ventas o redes sociales.
+
 ·Almacenamiento: los datos se guardan para poder consultarlos y analizarlos. Cuando hay muchos datos, se necesitan sistemas preparados para ello.
+
 ·Procesamiento: se revisan, limpian y organizan los datos. Por ejemplo, se pueden corregir formatos o eliminar registros repetidos.
+
 ·Análisis: se buscan patrones, relaciones o tendencias que ayuden a responder una pregunta.
+
 ·Visualización: los resultados se muestran con gráficos o paneles para que sean más fáciles de entender.
 
 Estas etapas pueden repetirse. Si durante el análisis se detecta un problema en los datos, quizá haya que volver a revisarlos o procesarlos.
@@ -86,16 +100,22 @@ El cloud computing, o computación en la nube, permite utilizar almacenamiento y
 
 Puede ayudar a:
 ·Ampliar o reducir los recursos según la cantidad de trabajo.
+
 ·Acceder a sistemas desde distintos lugares.
+
 ·Evitar depender únicamente de servidores propios.
+
 La nube no elimina la necesidad de proteger los datos: también hay que controlar accesos, copias de seguridad y medidas de seguridad.
 
 **Herramientas relacionadas**
 
 Existen herramientas que ayudan a gestionar o analizar datos. Algunos ejemplos son:
 ·Hadoop: un conjunto de tecnologías utilizado para almacenar y procesar grandes cantidades de datos.
+
 ·Apache Spark: una herramienta para procesar datos.
+
 ·Power BI: permite crear informes y visualizaciones.
+
 ·Google Cloud y Microsoft Azure: ofrecen servicios de almacenamiento y procesamiento en la nube.
 
 
